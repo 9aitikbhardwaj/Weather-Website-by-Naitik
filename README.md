@@ -21,7 +21,7 @@ This is a simple and stylish weather app that allows users to check the weather 
 To run this project, you'll need a basic understanding of HTML, CSS, and JavaScript. You'll also need an API key from OpenWeatherMap.
 
 ### Usage
--Enter a city name in the input field.
--Click the search button to fetch and display the weather data.
--The app will show the temperature, humidity, and wind speed for the entered city.
--If the entered city name is invalid, an error message will be displayed.
+- Enter a city name in the input field.
+- Click the search button to fetch and display the weather data.
+- The app will show the temperature, humidity, and wind speed for the entered city.
+- If the entered city name is invalid, an error message will be displayed.
