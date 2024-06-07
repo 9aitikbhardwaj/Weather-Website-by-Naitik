@@ -37,3 +37,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Open a pull request.
 
 ### Deployed Link
+  https://weather-website-by-naitik.vercel.app/
